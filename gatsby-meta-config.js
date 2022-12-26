@@ -1,5 +1,5 @@
 module.exports = {
-  title: `hongsigner.com`,
+  title: `hongsigner`,
   description: `브랜드 프로덕트 디자인을 하고 있는 홍민의 입니다.`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://hongsigner.com`,
@@ -9,7 +9,7 @@ module.exports = {
       repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
-  ga: '0', // Google Analytics Tracking ID
+  ga: 'G-61B1PXRCSQ', // Google Analytics Tracking ID
   author: {
     name: `홍민의`,
     bio: {
