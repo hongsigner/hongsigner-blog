@@ -41,9 +41,10 @@ module.exports = {
         },
       },
         // ========================================================
+        // ========================================================
       {
         date: '2022.06 ~',
-        activity: '프롬나드에이아이에서 디자이너로써 먼치스킬(MunchSkill) SaaS를 만드는 중',
+        activity: '프롬나드에이아이에서 먼치스킬(MunchSkill) SaaS를 만드는 중',
         links: {
           github: '',
           post: '',
@@ -69,28 +70,28 @@ module.exports = {
       // =====        [Project Sample and Structure]        =====
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!)  =====
       {
-        title: '',
-        description: '',
-        techStack: ['', ''],
-        thumbnailUrl: '',
+        title: '먼치스킬 웹사이트 제작하기',
+        description: 'SaaS 프로덕트 디자인을 하면서 웹빌더로 짬짬히 만든 먼치스킬 소개 웹사이트 입니다.',
+        techStack: ['Wordpress', 'Elementor'],
+        thumbnailUrl: 'https://munchskill.com/wp-content/uploads/2022/10/Frame-1991.svg',
         links: {
-          post: '',
+          post: 'https://munchskill.com/ko/blog/why-designer-make-websites/',
           github: '',
           googlePlay: '',
           appStore: '',
-          demo: '',
+          demo: 'https://munchskill.com/ko',
         },
       },
       // ========================================================
       // ========================================================
       {
-        title: '',
+        title: '먼치스킬(MunchSkill) 브랜딩 시작하기',
         description:
-          '',
-        techStack: ['', ''],
-        thumbnailUrl: '',
+          '프롬나드에이아이에 입사 후 처음 진행한 작업입니다.',
+        techStack: ['Logo', 'Branding'],
+        thumbnailUrl: 'https://i0.wp.com/munchskill.com/wp-content/uploads/2022/10/IMG_2171.jpg?w=1920&ssl=1',
         links: {
-          post: '',
+          post: 'https://munchskill.com/ko/blog/start-branding-munchskill/',
           github: '',
           demo: '',
         },
