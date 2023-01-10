@@ -1,6 +1,6 @@
 module.exports = {
   title: `hongsigner`,
-  description: `브랜드 프로덕트 디자인을 하고 있는 홍민의 입니다.`,
+  description: `브랜드 및 프로덕트 디자인을 하고 있는 홍민의 입니다.`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://hongsigner.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
@@ -30,25 +30,37 @@ module.exports = {
       // =====       [Timestamp Sample and Structure]      =====
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
       {
-        date: '',
-        activity: '',
+        date: '2022.11 ~ 2023.01',
+        activity: '마켓닥터 웹사이트 및 앱 디자인',
         links: {
           github: '',
           post: '',
           googlePlay: '',
           appStore: '',
-          demo: '',
+          demo: 'https://marketdoctor.ai',
+        },
+      },
+        // ========================================================
+      {
+        date: '2022.06 ~',
+        activity: '프롬나드에이아이에서 디자이너로써 먼치스킬(MunchSkill) SaaS를 만드는 중',
+        links: {
+          github: '',
+          post: '',
+          googlePlay: '',
+          appStore: '',
+          demo: 'https://munchskill.com',
         },
       },
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
-        activity: '개인 블로그 개발 및 운영',
+        date: '2015.09 ~ 2022.06',
+        activity: '제노플랜 코리아에서 디자이너로 근무',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          post: '',
+          github: '',
+          demo: 'https://genoplan.com',
         },
       },
     ],
@@ -72,15 +84,15 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        title: '개발 블로그 테마 개발',
+        title: '',
         description:
-          '개발 블로그를 운영하는 기간이 조금씩 늘어나고 점점 많은 생각과 경험이 블로그에 쌓아가면서 제 이야기를 담고 있는 블로그를 직접 만들어보고 싶게 되었습니다. 그동안 여러 개발 블로그를 보면서 좋았던 부분과 불편했던 부분들을 바탕으로 레퍼런스를 참고하여 직접 블로그 테마를 만들게 되었습니다.',
-        techStack: ['gatsby', 'react'],
-        thumbnailUrl: 'blog.png',
+          '',
+        techStack: ['', ''],
+        thumbnailUrl: '',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          post: '',
+          github: '',
+          demo: '',
         },
       },
     ],
