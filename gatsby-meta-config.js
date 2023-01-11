@@ -116,7 +116,7 @@ module.exports = {
         description:
           '프롬나드에이아이에 입사 후 처음 진행한 작업입니다.',
         techStack: ['Logo', 'Branding'],
-        thumbnailUrl: 'start-branding-munchskill.webp',
+        thumbnailUrl: 'start-branding-munchskill.jpg',
         links: {
           post: 'start-branding-munchskill.webp',
           github: '',
