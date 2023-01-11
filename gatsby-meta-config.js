@@ -30,14 +30,14 @@ module.exports = {
       // =====       [Timestamp Sample and Structure]      =====
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
       {
-        date: '2022.11 ~ 2023.01',
-        activity: '마켓닥터 웹사이트 및 앱 디자인',
+        date: '',
+        activity: '',
         links: {
           github: '',
           post: '',
           googlePlay: '',
           appStore: '',
-          demo: 'https://marketdoctor.ai',
+          demo: '',
         },
       },
               // ========================================================
@@ -83,16 +83,16 @@ module.exports = {
       // =====        [Project Sample and Structure]        =====
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!)  =====
       {
-        title: '먼치스킬 웹사이트 제작하기',
-        description: 'SaaS 프로덕트 디자인을 하면서 웹빌더로 짬짬히 만든 먼치스킬 소개 웹사이트 입니다.',
-        techStack: ['Wordpress', 'Elementor'],
-        thumbnailUrl: 'https://munchskill.com/wp-content/uploads/2022/10/Frame-1991.svg',
+        title: '',
+        description: '',
+        techStack: ['', ''],
+        thumbnailUrl: '',
         links: {
           post: 'https://munchskill.com/ko/blog/why-designer-make-websites/',
           github: '',
           googlePlay: '',
           appStore: '',
-          demo: 'https://munchskill.com/ko',
+          demo: '',
         },
       },
       // ========================================================
@@ -101,7 +101,7 @@ module.exports = {
         title: '먼치스킬 웹사이트 제작하기',
         description: 'SaaS 프로덕트 디자인을 하면서 웹빌더로 짬짬히 만든 먼치스킬 소개 웹사이트 입니다.',
         techStack: ['Wordpress', 'Elementor'],
-        thumbnailUrl: 'https://munchskill.com/wp-content/uploads/2022/10/Frame-1991.svg',
+        thumbnailUrl: 'why-designer-make-websites.svg',
         links: {
           post: 'https://munchskill.com/ko/blog/why-designer-make-websites/',
           github: '',
@@ -110,16 +110,15 @@ module.exports = {
           demo: 'https://munchskill.com/ko',
         },
       },
-      // ========================================================
       // ========================================================
       {
         title: '먼치스킬(MunchSkill) 브랜딩 시작하기',
         description:
           '프롬나드에이아이에 입사 후 처음 진행한 작업입니다.',
         techStack: ['Logo', 'Branding'],
-        thumbnailUrl: 'https://i0.wp.com/munchskill.com/wp-content/uploads/2022/10/IMG_2171.jpg?w=1920&ssl=1',
+        thumbnailUrl: 'why-designer-make-websites.svg',
         links: {
-          post: 'https://munchskill.com/ko/blog/start-branding-munchskill/',
+          post: 'start-branding-munchskill.webp',
           github: '',
           demo: '',
         },
