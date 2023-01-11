@@ -101,7 +101,7 @@ module.exports = {
         title: '먼치스킬 웹사이트 제작하기',
         description: 'SaaS 프로덕트 디자인을 하면서 웹빌더로 짬짬히 만든 먼치스킬 소개 웹사이트 입니다.',
         techStack: ['Wordpress', 'Elementor'],
-        thumbnailUrl: 'why-designer-make-websites.svg',
+        thumbnailUrl: '/why-designer-make-websites.svg',
         links: {
           post: 'https://munchskill.com/ko/blog/why-designer-make-websites/',
           github: '',
@@ -118,7 +118,7 @@ module.exports = {
         techStack: ['Logo', 'Branding'],
         thumbnailUrl: 'start-branding-munchskill.jpg',
         links: {
-          post: 'start-branding-munchskill.webp',
+          post: '/start-branding-munchskill.webp',
           github: '',
           demo: '',
         },
