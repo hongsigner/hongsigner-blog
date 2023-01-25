@@ -50,3 +50,14 @@ function Bio({ author, language = 'ko' }) {
 }
 
 export default Bio;
+
+export function Head() {
+  return (
+    <>
+      <html lang="en">
+        <head>
+          <meta name="naver-site-verification" content="c1ead4787bfb0862fd6cf36813337e218dd50317" />
+        </head>
+    </>
+  )
+}
